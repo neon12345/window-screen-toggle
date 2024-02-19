@@ -1,0 +1,1 @@
+This is a gnome extension to toggle the window placements between two screens. Working with a laptop and a second big screen, one can quickly bring windows from the second screen to the laptop, make some changes and switch them back. 

@@ -1,0 +1,13 @@
+{
+	"shell-version": [
+	    "3.38",
+	    "40",
+	    "42",
+	    "43",
+	    "45"
+	],
+	"uuid": "window-screen-toggle",
+	"name": "Window Screen Toggle",
+	"version": 1,
+	"description": "Toggle window placement between screens"
+}
